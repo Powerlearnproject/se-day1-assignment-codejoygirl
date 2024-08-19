@@ -8,8 +8,6 @@ Answer: Software engineering is the systematic application of engineering princi
 
 Software engineering is vital in the technology industry because it ensures the development of high-quality software that is reliable and free from major bugs, which is essential for both businesses and users. It allows software to scale efficiently, handling more users and data as companies grow, without compromising performance. By following structured methods, software engineering makes the development process faster and more cost-effective, which is crucial in a competitive market. It also plays a key role in driving innovation, enabling the creation of advanced technologies like AI and cloud computing. Moreover, software engineering builds strong security measures into software, protecting against cyber threats and maintaining user trust. It ensures that software can be easily updated and improved over time, keeping it relevant and functional as needs evolve. Additionally, it promotes effective teamwork, allowing large projects to be completed successfully with input from various experts.
 
-
-
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 Answer: Here are three key milestones in the evolution of software engineering:
